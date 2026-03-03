@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-53a2f2da9748ec23681c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AplicatieLogin",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AplicatieLogin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AplicatieLogin-Debug-961353e04c3aeda2c722.json",
+					"name" : "AplicatieLogin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AplicatieLogin_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AplicatieLogin_autogen-Debug-962a051f0bbdcde1bc13.json",
+					"name" : "AplicatieLogin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AplicatieLogin_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AplicatieLogin_autogen_timestamp_deps-Debug-a6af95cc2db0783825e8.json",
+					"name" : "AplicatieLogin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Bogdan/Desktop/Repos/MiniCompiler/MyApp/out/build/debug",
+		"source" : "C:/Users/Bogdan/Desktop/Repos/MiniCompiler/MyApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
