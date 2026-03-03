@@ -1,0 +1,29 @@
+# Qt/CMake
+build/
+out/
+CMakeCache.txt
+CMakeFiles/
+CMakeUserPresets.json
+CMakeLists.txt.user
+*.autosave
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.user
+*.suo
+*.db
+*.ipch
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.obj
+*.o
+*.pdb
+
+# Local data
+users.json
